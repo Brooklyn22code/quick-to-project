@@ -3,8 +3,7 @@ This is a very easy CLI tool help you doing that without touching mouse.
 
 To run this CLI, make sure you download golang compiler and SQLite.
 
-You first need clone the repo to your computer, in the direction you need to type into terminal: 
-go mod tidy
+You first need clone the repo to your computer'
 
 Then type in terminal:
 sqlite3 project.db
