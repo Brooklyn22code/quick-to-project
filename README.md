@@ -15,9 +15,14 @@ You are done right now, open terminal and type command quickpro, then you should
 command>
 
 There are 5 commands in this CLI tools:
-create: create a project, it will ask for name of project and path of project
-list: it will gove you every project's name, path and id
-open: it will ask project id, then it will open vscode for this project
-delete: it will ask project id, and delete the project
+
+create: create a project, it will ask for name of project and path of project,
+
+list: it will gove you every project's name, path and id,
+
+open: it will ask project id, then it will open vscode for this project,
+
+delete: it will ask project id, and delete the project,
+
 exit: it will exit the CLI
 
