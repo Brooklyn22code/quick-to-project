@@ -18,7 +18,7 @@ There are 5 commands in this CLI tools:
 
 create: create a project, it will ask for name of project and path of project,
 
-list: it will gove you every project's name, path and id,
+list: it will give you every project's name, path and id,
 
 open: it will ask project id, then it will open vscode for this project,
 
