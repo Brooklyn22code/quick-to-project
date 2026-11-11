@@ -1,3 +1,3 @@
 @echo off
-cd "C:\tools\quickpro"
+cd "C:\Users\User\quick-to-project\ex"
 main.exe
